@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "OMZuNtqySFDSyPagQ6i4p4WoemJrSAkoukrLSuAbRks=",
+  "Hash": "8BQh4Pw2NlkujbVJNfW2RGatbjwlKIVERlXs1GLCXcY=",
   "Source": "Camellos",
   "BasePath": "_content/Camellos",
   "Mode": "Default",
@@ -91,6 +91,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Alvaro\\Desktop\\Camello\\SLNCamellos\\Camellos\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Camellos.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\Alvaro\\Desktop\\Camello\\SLNCamellos\\Camellos\\wwwroot\\css\\Inicio.css",
+      "SourceId": "Camellos",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Alvaro\\Desktop\\Camello\\SLNCamellos\\Camellos\\wwwroot\\",
+      "BasePath": "_content/Camellos",
+      "RelativePath": "css/Inicio.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\Inicio.css"
     },
     {
       "Identity": "C:\\Users\\Alvaro\\Desktop\\Camello\\SLNCamellos\\Camellos\\wwwroot\\css\\site.css",

@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\Camellos.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\Alvaro\\Desktop\\Camello\\SLNCamellos\\Camellos\\wwwroot\\css\\Inicio.css",
+      "PackagePath": "staticwebassets\\css\\Inicio.css"
+    },
+    {
       "Id": "C:\\Users\\Alvaro\\Desktop\\Camello\\SLNCamellos\\Camellos\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
