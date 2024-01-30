@@ -3,8 +3,9 @@
     "",
     "\\SLNCamellos",
     "\\SLNCamellos\\Camellos",
-    "\\SLNCamellos\\Camellos\\Controllers"
+    "\\SLNCamellos\\Camellos\\Views",
+    "\\SLNCamellos\\Camellos\\Views\\Home"
   ],
-  "SelectedNode": "\\SLNCamellos\\Camellos\\Controllers\\InicioController.cs",
+  "SelectedNode": "\\SLNCamellos\\Camellos\\Views\\Home",
   "PreviewInSolutionExplorer": false
 }

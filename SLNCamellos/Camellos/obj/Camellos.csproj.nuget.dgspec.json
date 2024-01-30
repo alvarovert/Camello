@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\CONSULTOR2\\Desktop\\Camellos\\SLNCamellos\\Camellos\\Camellos.csproj": {}
+    "C:\\Users\\Alvaro\\Desktop\\Camello\\SLNCamellos\\Camellos\\Camellos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\CONSULTOR2\\Desktop\\Camellos\\SLNCamellos\\Camellos\\Camellos.csproj": {
+    "C:\\Users\\Alvaro\\Desktop\\Camello\\SLNCamellos\\Camellos\\Camellos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\CONSULTOR2\\Desktop\\Camellos\\SLNCamellos\\Camellos\\Camellos.csproj",
+        "projectUniqueName": "C:\\Users\\Alvaro\\Desktop\\Camello\\SLNCamellos\\Camellos\\Camellos.csproj",
         "projectName": "Camellos",
-        "projectPath": "C:\\Users\\CONSULTOR2\\Desktop\\Camellos\\SLNCamellos\\Camellos\\Camellos.csproj",
-        "packagesPath": "C:\\Users\\CONSULTOR2\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\CONSULTOR2\\Desktop\\Camellos\\SLNCamellos\\Camellos\\obj\\",
+        "projectPath": "C:\\Users\\Alvaro\\Desktop\\Camello\\SLNCamellos\\Camellos\\Camellos.csproj",
+        "packagesPath": "C:\\Users\\Alvaro\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Alvaro\\Desktop\\Camello\\SLNCamellos\\Camellos\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\CONSULTOR2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Alvaro\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -46,6 +44,16 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Components.QuickGrid.EntityFrameworkAdapter": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

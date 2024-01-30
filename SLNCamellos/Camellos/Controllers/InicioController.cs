@@ -1,15 +1,24 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using System.Configuration
+using System.Configuration;
 
 namespace Camellos.Controllers
 {
     public class InicioController : Controller
     {
     
+        
 
 
+        public IActionResult Pagina()
+        {
+            return View();
+        }
 
-        public IActionResult Inicio()
+        public IActionResult Logear()
+        {
+            return View();
+        }
+        public IActionResult Aviso()
         {
             return View();
         }
