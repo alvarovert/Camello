@@ -1,3 +1,24 @@
-﻿h1 {
-    color: red;
+﻿:root {
+    --bs-font-sans-serif: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    --bs-body-font-family: var(--bs-font-sans-serif);
+}
+
+h1 {
+    color: blue;
+}
+body {
+    background-color: #1179ac;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    margin: 0;
+    font-family: var(--bs-body-font-family);
+}
+.wrapped {
+    flex: 1;
+}
+footer {
+    text-align: right;
+    padding: 10px;
+    font-size: 12px;
 }
