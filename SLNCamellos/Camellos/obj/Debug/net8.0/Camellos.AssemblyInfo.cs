@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Camellos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6bb76f2ecda8c9b763f4bf379ad87048d7b849bd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+23b25b30de787e4a8e54a0995412c0444c0eac25")]
 [assembly: System.Reflection.AssemblyProductAttribute("Camellos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Camellos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
