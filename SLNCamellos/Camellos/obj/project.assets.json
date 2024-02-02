@@ -6480,25 +6480,28 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Alvaro\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\CONSULTOR2\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alvaro\\Desktop\\Camello\\SLNCamellos\\Camellos\\Camellos.csproj",
+      "projectUniqueName": "C:\\Users\\CONSULTOR2\\Desktop\\Camellos\\SLNCamellos\\Camellos\\Camellos.csproj",
       "projectName": "Camellos",
-      "projectPath": "C:\\Users\\Alvaro\\Desktop\\Camello\\SLNCamellos\\Camellos\\Camellos.csproj",
-      "packagesPath": "C:\\Users\\Alvaro\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alvaro\\Desktop\\Camello\\SLNCamellos\\Camellos\\obj\\",
+      "projectPath": "C:\\Users\\CONSULTOR2\\Desktop\\Camellos\\SLNCamellos\\Camellos\\Camellos.csproj",
+      "packagesPath": "C:\\Users\\CONSULTOR2\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\CONSULTOR2\\Desktop\\Camellos\\SLNCamellos\\Camellos\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\Alvaro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\CONSULTOR2\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
