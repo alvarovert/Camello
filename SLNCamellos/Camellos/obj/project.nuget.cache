@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "2AT3OwI9oFHhx2lOB3A+Os0qW2U/uyA36U9ukKK8H5gw/Uihpe7p21t/vumc94HM1exfkH6XF2P3AT4CtEN7pg==",
+  "dgSpecHash": "fHnfTOn/lSefYEA7D6A9cAxoOZctP0eQ0Jf+WGQy/v+tkN8OKbT1NL97QZDVaeBJx231x6esvhUSSohy+S3pew==",
   "success": true,
   "projectFilePath": "C:\\Users\\CONSULTOR2\\Desktop\\Camellos\\SLNCamellos\\Camellos\\Camellos.csproj",
   "expectedPackageFiles": [
@@ -62,6 +62,8 @@
     "C:\\Users\\CONSULTOR2\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid.entityframeworkadapter\\8.0.1\\microsoft.aspnetcore.components.quickgrid.entityframeworkadapter.8.0.1.nupkg.sha512",
     "C:\\Users\\CONSULTOR2\\.nuget\\packages\\microsoft.aspnetcore.components.web\\8.0.1\\microsoft.aspnetcore.components.web.8.0.1.nupkg.sha512",
     "C:\\Users\\CONSULTOR2\\.nuget\\packages\\microsoft.aspnetcore.metadata\\8.0.1\\microsoft.aspnetcore.metadata.8.0.1.nupkg.sha512",
+    "C:\\Users\\CONSULTOR2\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.extensions\\6.0.0\\microsoft.aspnetcore.mvc.razor.extensions.6.0.0.nupkg.sha512",
+    "C:\\Users\\CONSULTOR2\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.runtimecompilation\\8.0.1\\microsoft.aspnetcore.mvc.razor.runtimecompilation.8.0.1.nupkg.sha512",
     "C:\\Users\\CONSULTOR2\\.nuget\\packages\\microsoft.aspnetcore.razor.language\\6.0.24\\microsoft.aspnetcore.razor.language.6.0.24.nupkg.sha512",
     "C:\\Users\\CONSULTOR2\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\7.0.0\\microsoft.bcl.asyncinterfaces.7.0.0.nupkg.sha512",
     "C:\\Users\\CONSULTOR2\\.nuget\\packages\\microsoft.build\\17.7.2\\microsoft.build.17.7.2.nupkg.sha512",
