@@ -26,16 +26,20 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes = true
 build_property.MSBuildProjectDirectory = C:\Users\CONSULTOR2\Desktop\Camellos\SLNCamellos\Camellos
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/CONSULTOR2/Desktop/Camellos/SLNCamellos/Camellos/Views/Acceso/Aviso.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjZXNvXEF2aXNvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/CONSULTOR2/Desktop/Camellos/SLNCamellos/Camellos/Views/Acceso/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjZXNvXExvZ2luLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/CONSULTOR2/Desktop/Camellos/SLNCamellos/Camellos/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/CONSULTOR2/Desktop/Camellos/SLNCamellos/Camellos/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/CONSULTOR2/Desktop/Camellos/SLNCamellos/Camellos/Views/Inicio/Pagina.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5pY2lvXFBhZ2luYS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/CONSULTOR2/Desktop/Camellos/SLNCamellos/Camellos/Views/Shared/Error.cshtml]

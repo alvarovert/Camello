@@ -16,15 +16,14 @@
 <div class="wrapped">
     <div class="loginContainer">
         <img id="logoSurvey" src="https://surveyrental.com.pe/wp-content/uploads/2022/04/logo-survey-curvas.png" />
-        <div class ="loginForm">
+        <form asp-controller="Acceso" asp-action="Login" class="loginForm">
             <span class="inputIcon"></span>
-            <input type="text" id="identificador" class="formInput" placeholder="Identificador" />
-        </div>
-        <div class="loginForm">
+            <input type="text" id="NDocumento" name="NDocumento" class="formInput" placeholder="Identificador" />
             <span class="inputIcon"></span>
-            <input type="password" id="contraseña" class="formInput" placeholder="Contraseña" />
-        </div>
-        <button id="butonLogin">Ingresar</button>
+            <input type="password" id="Password" name="Password" class="formInput" placeholder="Contraseña" />
+            <button type="submit" id="butonLogin">Ingresar</button>
+        </form>
+
 
     </div>
 
@@ -32,6 +31,8 @@
 
 
 </div>
+
+
 <footer class="border-top footer text-muted">
     <div class="container">
         &copy; 2024 - Una colaboracion Global Tec Perú y Alvaro Menacho

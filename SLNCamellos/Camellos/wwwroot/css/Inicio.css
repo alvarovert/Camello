@@ -18,6 +18,10 @@ body {
     margin: 0;
     font-family: var(--bs-body-font-family);
 }
+input{
+    padding: 10px;
+    margin: 5px;
+}
 .wrapped {
     flex: 1;
 }
@@ -45,12 +49,12 @@ footer {
     padding: 10px;
     font-size: 12px;
 }
-.formInput{
-    width:300px;
-    height:30px;
+.formInput {
+    width: 300px;
+    height: 30px;
     border-radius: 50px;
-    text-align:center;
-    font-size:15px;
+    text-align: center;
+    font-size: 15px;
 }
     
 .formInput:hover {
